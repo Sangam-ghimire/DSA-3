@@ -1,2 +1,0 @@
-# DSA-LAB-3
-DSA Lab 3
